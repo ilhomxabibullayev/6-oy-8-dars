@@ -1,0 +1,19 @@
+h2 {
+    text-align: center;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid gray;
+    margin-bottom: 20px;
+    border-radius: 15px;
+}
+
+button {
+    width: 100%;
+    background: red;
+    color: white;
+    padding: 20px;
+    border-radius: 15px;
+}

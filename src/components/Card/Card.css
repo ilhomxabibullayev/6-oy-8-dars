@@ -1,0 +1,41 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    padding: 10px;
+    gap: 30px;
+}
+
+.grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.card__container {
+    border: 1px solid black;
+}
+
+h1 {
+    text-align: center;
+    padding: 10px 30px;
+    background: black;
+    color: red;
+}
+
+h2 {
+    margin-bottom: 10px;
+}
+
+.image {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+
+p {
+    width: 300px;
+    margin-bottom: 10px;
+}
